@@ -1,0 +1,15 @@
+{
+    "name": "darep/phpdoc-trait-bug",
+    "autoload": {
+        "psr-4": {
+            "Darep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AJ Kovalainen",
+            "email": "ajk@ajk.fi"
+        }
+    ],
+    "require": {}
+}
