@@ -2,6 +2,8 @@
 
 Class documentation doesn't seem to show traits or the interited methods any more.
 
+Bug report: https://github.com/phpDocumentor/phpDocumentor/issues/2984
+
 ### Usage
 
 Check src/Test.php and src/FooTrait.php for the class that uses the trait & the actual trait.
